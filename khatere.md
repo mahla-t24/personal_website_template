@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
+permalink: /khatere/
 title: khatere
 tags: [memori]
 modified: 4-10-2019
