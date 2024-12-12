@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /sky/
 title: beautiful photos of sky
-tags: [gallery]
+tags: [gallery,sky]
 modified: 9-14-2019
 comments: false
 gallery:
