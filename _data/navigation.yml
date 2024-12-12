@@ -6,8 +6,6 @@ main:
     url: /courses/
   - title: "Friends"
     url: /friends/
-  - title: "Links"
-    url: /links/
   - title: "Animal"
     url: /animal/  
   - title: "sky"

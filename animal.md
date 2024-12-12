@@ -12,7 +12,7 @@ comments: false
 #### it's a picture of funny Goat:
 <br>
 <img 
-    src = "assets/images/a1.jpg"
+    src = "/assets/images/a1.jpg"
     alt="animal"
     width= 250
     height= 300
@@ -21,7 +21,7 @@ comments: false
 #### beautifull Seagulls:
 <br>
 <img 
-    src = "assets/images/a2.jpg"
+    src = "/assets/images/a2.jpg"
     alt=animal
     width=250
     height = 300
@@ -30,7 +30,7 @@ comments: false
 #### a cute Cat
 <br>
 <img 
-    src = "assets/images/a3.jpg"
+    src = "/assets/images/a3.jpg"
     alt=animal
     width=250
     height = 220
