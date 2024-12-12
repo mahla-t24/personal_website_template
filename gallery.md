@@ -8,10 +8,6 @@ modified: 9-14-2019
 comments: false
 ---
 
-
-
-
-<p>
   <img 
   src="assets/images/a.jpg"
   alt=sky
@@ -43,7 +39,6 @@ comments: false
   height=235
   />
   
-</p>
 
 
 
