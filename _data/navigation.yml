@@ -2,8 +2,8 @@
 main:
   - title: "BIO"
     url: /bio/
-  - title: "Courses"
-    url: /courses/
+  - title: "landmark"
+    url: /landmark/
   - title: "Friends"
     url: /friends/
   - title: "Animal"
