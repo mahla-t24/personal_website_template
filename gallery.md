@@ -1,14 +1,16 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
-title: Gallery
+permalink: /sky/
+title: beautiful photos of sky
 tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
+    width: 500
+    height: 500
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/2.jpg
@@ -29,5 +31,5 @@ gallery:
     title: "Image 5 title caption"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 
