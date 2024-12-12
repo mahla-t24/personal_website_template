@@ -15,7 +15,7 @@ hi everyone!
 
 
 ## HOMETOWN
-I,m from <b>Esfahan</b>.
+I,m from <b>Isfahan</b>.
 <br>I love my city.
 
 ## INTERESTS

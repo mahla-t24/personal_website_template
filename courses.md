@@ -12,27 +12,13 @@ comments: false
 
 |city       |best place to visit             |
 |-----------|--------------------------------|
-|**<a href="https://maps.app.goo.gl/fyrUz6drQ2T5R7kR7">Yazd</a>**|        |
+|**<a href="https://maps.app.goo.gl/fyrUz6drQ2T5R7kR7">Yazd</a>**|**<a href="https://maps.app.goo.gl/WB3LVq2jB1tJJMxy6">lari house</a>**       |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|**<a href="https://maps.app.goo.gl/FKJZU38yywGFY6cr7">Shiraz</a>**| **<a href="https://maps.app.goo.gl/CBk5dbhNTyDjNx1D9">hafez tomd</a>**|
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|**<a href="https://maps.app.goo.gl/9Zg36MpQdwEdxUN77">kish</a>**|**<a href="https://maps.app.goo.gl/c2VzCUjwW5dw6gSZ7">Underground City‌</a>**|
+|----|------|--------------------------------|
+|**<a href="https://maps.app.goo.gl/t6wA6ErGwr4Sd18y7">Mashhad</a>**|**<a href="https://maps.app.goo.gl/RzRok7SbjcLrrWYw9">Koohshar Park</a>** |
+|----|------|--------------------------------|
+|**<a href="https://maps.app.goo.gl/pXPmWyd7fuWSV6Ap9">Isfahan</a>**|**<a href="https://maps.app.goo.gl/t11yRqZ4nz9HciHG7">Naqsh-e Jahan Square</a>** |
 
-
-|           | **Past**                       |
-|----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
-|----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
-|----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">Natural Language Processing (Undergraduate)</a>** |
-|----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">Data Structures</a>**            |
-|----|------|--------------------------------|
-|2018|Fall  | **Advanced Programming - C#** |
-|----|------|--------------------------------------------|
-|2018|Fall  | **Natural Language Processing (Graduate)** |
-|----|------|--------------------------------------------|
-|2018|Spring| **Advanced Programming - C#**             |
-|----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
