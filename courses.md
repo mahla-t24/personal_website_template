@@ -9,10 +9,10 @@ comments: false
 ---
 
 
-|           | **Current**                    |
-|df  |ffd   |ffffffffffffffffffffffffffffffff|fkj
-|----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+
+|city       |best place to visit             |
+|-----------|--------------------------------|
+|**<a href="https://maps.app.goo.gl/fyrUz6drQ2T5R7kR7">Yazd</a>**|        |
 |----|------|--------------------------------|
 |2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
 |----|------|--------------------------------|
