@@ -11,7 +11,7 @@ comments: false
 
 
 
-<p align="left">
+<p>
   <img 
   src="assets/images/a.jpg"
   alt=sky
