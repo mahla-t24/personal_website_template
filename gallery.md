@@ -17,29 +17,31 @@ comments: false
   alt=sky
   width=235
   height=235
-   >
-   <img 
+  />
+  <img 
   src="assets/images/c.jpg"
   alt=sky
   width=230
   height=235
-   >
-     <img 
+  />
+  <img 
   src="assets/images/b.jpg"
   alt=sky
   width=470
   height=300
-   >  <img 
+  />
+  <img 
   src="assets/images/d.jpg"
   alt=sky
   width=220
   height=235
-   >  <img 
+  />
+  <img 
   src="assets/images/e.jpg"
   alt=sky
   width=250
   height=235
-   >
+  />
   
 </p>
 
