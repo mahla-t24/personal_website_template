@@ -118,9 +118,9 @@ author:
   # github: mahla-t24
   # instagram: mahla.t24
   links:
-    # - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:mahlateimouri2471384@gmail.com
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mahlateimouri2471384@gmail.com
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
