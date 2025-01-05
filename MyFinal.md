@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /MyFinal/
-title:
+# title:
 tags: [MyFinal]
 # modified: 
 comments: false
