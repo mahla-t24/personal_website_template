@@ -2,14 +2,14 @@
 layout: single
 author_profile: true
 permalink: /MyFinal/
-title:  my Final
+title:
 tags: [MyFinal]
 # modified: 
 comments: false
 ---
 
  
-#  Exam day shots
+# Exam day shots
 ![examscreenshot](assets/images/MyFinal.jpg)
 
 
