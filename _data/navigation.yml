@@ -12,6 +12,9 @@ main:
     url: /friends/
   - title: "Blog"
     url: /blog/
+  - title: "MyFinal"
+    url: /MyFinal/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
