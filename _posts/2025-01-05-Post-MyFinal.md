@@ -8,5 +8,5 @@ title: My Final
 |      mahla     |      teimouri |
 
 
-![loading... ](/assets/images/Screenshot(82))
+![loading the image... ](/assets/images/Screenshot(82))
 
