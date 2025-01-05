@@ -13,6 +13,7 @@ comments: false
 
 ![exam screenshot](/assets/images/Screenshot(82).jpg)
 
--  [sample item 1](fccourse.liara.run)
+
+-  [sample item 1](https://fccourse.liara.run)
 -  sample item 2
 
